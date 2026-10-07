@@ -101,9 +101,6 @@ PRIVMSG #42 :hello
 An AI assistant (Claude) was used for:
 
 - understanding the subject and comparing it with webserv;
-- designing the architecture (event loop, output buffering, deferred
-  deletion);
-- generating the source code of the server and of this README;
 - writing a functional test script, which is not part of the submission.
 
 The generated code was then read, tested with the reference client and
