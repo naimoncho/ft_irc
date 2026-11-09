@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <login1>[, <login2>].*
+*This project has been created as part of the 42 curriculum by <ncheniou and pablrome>.*
 
 # ft_irc
 
@@ -100,8 +100,5 @@ PRIVMSG #42 :hello
 
 An AI assistant (Claude) was used for:
 
-- understanding the subject and comparing it with webserv;
-- writing a functional test script, which is not part of the submission.
+- Understanding the subject and comparing it with webserv;
 
-The generated code was then read, tested with the reference client and
-reviewed by the authors.
