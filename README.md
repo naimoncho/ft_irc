@@ -100,5 +100,5 @@ PRIVMSG #42 :hello
 
 An AI assistant (Claude) was used for:
 
-- Understanding the subject and comparing it with webserv;
+- Understanding the subject and helping in some comprobations and verifications;
 
